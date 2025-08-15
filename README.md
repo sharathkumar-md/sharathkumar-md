@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Sharath Kumar MD
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **[Project Name](link)**
@@ -8,12 +8,12 @@
 - 📫 How to reach me: **[Email / LinkedIn]**
 - ⚡ Fun fact: **[Something fun about you]**
 
-## 🛠️ Tech Stack
+##  Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sharathkumar-md&show_icons=true&theme=tokyonight)
 
 ## Connect with me
