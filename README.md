@@ -5,15 +5,13 @@ I am Sharath Kumar MD, a 3rd year Mechanical Engineering student at IIT Bombay. 
 
 ## Tech Stack & Tools
 
-| **Category** | **Technologies / Tools** |
-| **Languages** | Python, C++, HTML, CSS, Jupyter Notebook |
-| **Frameworks & Libraries** | Flask, Streamlit, FastAPI |
-| **Machine Learning & AI** | PyTorch, Transformers, Scikit-learn, XGBoost, LangChain, LlamaIndex, OpenAI, Google Generative AI, Groq, Together.ai, Sentence-Transformers, spaCy, NLTK, openai-whisper |
-| **Vector Databases / RAG** | ChromaDB, FAISS |
-| **Data & Visualization** | Pandas, NumPy, Matplotlib, Seaborn, Plotly |
-| **APIs & Integrations** | Twilio, Cohere, Google Sheets, tavily-python, google-search-results, duckduckgo-search, newsapi-python |
-| **Document & Media Processing** | python-pptx, PyPDF2, pdfplumber, python-docx, Pillow (PIL), yt-dlp |
-| **Tools & Platforms** | Docker, Git, Jupyter, Pytest, Black, Flake8, Mypy, Cloudflare Tunnel |
+- **Languages:**  Python, C++, HTML, CSS, Jupyter Notebook  
+- **Frameworks & Libraries:**  Flask, Streamlit, FastAPI  
+- **Machine Learning & AI:**  PyTorch, Transformers, Scikit-learn, XGBoost, LangChain, LlamaIndex, OpenAI, Google Generative AI, Groq, Together.ai, Sentence-Transformers, spaCy, NLTK, openai-whisper  
+- **Vector Databases / RAG:**  ChromaDB, FAISS  
+- **Data & Visualization:**  Pandas, NumPy, Matplotlib, Seaborn, Plotly  
+- **APIs & Integrations:**  Twilio, Cohere, Google Sheets, tavily-python, google-search-results, duckduckgo-search, newsapi-python  
+- **Document & Media Processing:**  python-pptx, PyPDF2, pdfplumber, python-docx, Pillow (PIL), yt-dlp  
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharathkumarmd/)
